@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="IPC-Vsphere-Automation" />
+      <module name="TemplateAutomations" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7bd9d49-7de8-4fe4-a296-ad7bfb751dd9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IPC-Vsphere-Automation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemplateAutomations/TemplateAutomations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemplateAutomations/lib/FixJaxWsWsdlResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemplateAutomations/lib/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemplateAutomations/lib/samples-annotations-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemplateAutomations/lib/samples-core-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemplateAutomations/lib/sblim-cim-client2-2.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemplateAutomations/lib/sblim-cim-client2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemplateAutomations/lib/ssoclient.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemplateAutomations/lib/ssosamples.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemplateAutomations/lib/vim25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemplateAutomations/lib/wssamples.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemplateAutomations/src/com/catalyst/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LKCJuiu9faMEHtqnrlq3n6QSN3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "/Users/varnaa/IPC-Vsphere-Automation/TemplateAutomations/src/com/catalyst",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TemplateAutomations/src/com/catalyst" />
+      <recent name="$PROJECT_DIR$/TemplateAutomations/libs" />
+      <recent name="$PROJECT_DIR$/TemplateAutomations" />
+      <recent name="$PROJECT_DIR$/TemplateAutomation/src/main/java/com/catalyst" />
+      <recent name="$PROJECT_DIR$/TemplateAutomation" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TemplateAutomations" />
+      <recent name="$PROJECT_DIR$/TemplateAutomation/src/main/java/" />
+      <recent name="$PROJECT_DIR$/TemplateAutomation/src/main/java" />
+      <recent name="$PROJECT_DIR$/TemplateAutomation/src/main/java/com/catalyst" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="wssamples.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/TemplateAutomation/lib/wssamples.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.wssamples.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7bd9d49-7de8-4fe4-a296-ad7bfb751dd9" name="Changes" comment="" />
+      <created>1675610322357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675610322357</updated>
+      <workItem from="1675610325644" duration="5478000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnloadedModulesList">
+    <module name="TemplateAutomation" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
